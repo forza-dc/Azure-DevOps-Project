@@ -1,0 +1,1765 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Financ - Financial Advisor Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/finance.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appoinment-Section-Metform",
+            "screenshot": "screenshots\/appoinment-section-metform.jpg",
+            "source": "templates\/appoinment-section-metform.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/appoinment-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact-Section-Metform",
+            "screenshot": "screenshots\/contact-section-metform.jpg",
+            "source": "templates\/contact-section-metform.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/contact-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/finance.1onestrong.com\/blog\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.7.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Logo-800x233.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 71724,
+            "dimensions": [
+                1419,
+                414
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo02.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/10\/Logo02-800x233.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 67865,
+            "dimensions": [
+                1419,
+                414
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon026.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon026.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 5090,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Heros01.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Heros01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 110651,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg01.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg01-800x171.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6140,
+            "dimensions": [
+                1920,
+                410
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon07.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon07.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11575,
+            "dimensions": [
+                400,
+                411
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon05.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12408,
+            "dimensions": [
+                400,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon04.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11975,
+            "dimensions": [
+                401,
+                398
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg02.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg02-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 106924,
+            "dimensions": [
+                1700,
+                1134
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg04.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg04-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 124054,
+            "dimensions": [
+                1700,
+                1135
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg03.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg03-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 148856,
+            "dimensions": [
+                1700,
+                1134
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg05.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg05-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 201415,
+            "dimensions": [
+                1700,
+                1134
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg06.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg06-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 98300,
+            "dimensions": [
+                1700,
+                1134
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon011.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon011-800x130.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 5439,
+            "dimensions": [
+                1025,
+                167
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fundjpg010.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg010-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 90401,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon035.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon035-800x342.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 28727,
+            "dimensions": [
+                1300,
+                555
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fundjpg08.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg08-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 216680,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg011.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg011-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 141141,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg07.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg07-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 161418,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg09.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg09-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 88261,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon022.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon022.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 5349,
+            "dimensions": [
+                142,
+                446
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fundjpg013.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg013-800x292.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 81424,
+            "dimensions": [
+                1920,
+                701
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg014.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg014-800x1111.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 103673,
+            "dimensions": [
+                1300,
+                1806
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon023.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon023.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7580,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon024.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon024.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7715,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon030.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon030.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5132,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon027.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon027.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6523,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon029.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon029.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5660,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Mask-Group-32.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Mask-Group-32.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 38236,
+            "dimensions": [
+                334,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Mask-Group-24.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Mask-Group-24.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 45819,
+            "dimensions": [
+                334,
+                335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Mask-Group-16.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Mask-Group-16.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 35743,
+            "dimensions": [
+                333,
+                333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon032.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon032.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 5804,
+            "dimensions": [
+                179,
+                180
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-7.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2228,
+            "dimensions": [
+                229,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "brand-6.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2365,
+            "dimensions": [
+                229,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "brand-5.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2055,
+            "dimensions": [
+                229,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "brand-4.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2401,
+            "dimensions": [
+                228,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "brand-3.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2140,
+            "dimensions": [
+                229,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "brand-2.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2471,
+            "dimensions": [
+                229,
+                77
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "brand-1.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/brand-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2363,
+            "dimensions": [
+                229,
+                77
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg019.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg019-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 80811,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg021.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg021-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 135236,
+            "dimensions": [
+                1700,
+                1134
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg020.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg020-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 119576,
+            "dimensions": [
+                1700,
+                1135
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg024.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg024-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 86381,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-01.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 10552,
+            "dimensions": [
+                450,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-04.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 10599,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-03.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 11541,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-02.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 10190,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-05.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 8624,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-06.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 11397,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-08.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 8468,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "Team-07.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/Team-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 7944,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg025.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg025-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 85737,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg027.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg027-800x643.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 93754,
+            "dimensions": [
+                1200,
+                965
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg026.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg026-800x643.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 80192,
+            "dimensions": [
+                1200,
+                965
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg028.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg028-800x643.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 77232,
+            "dimensions": [
+                1200,
+                965
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon040.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon040.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5495,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "icon039.png",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/icon039.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5093,
+            "dimensions": [
+                177,
+                139
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg029.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg029-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                }
+            ],
+            "filesize": 87516,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg030.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg030-800x863.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 67741,
+            "dimensions": [
+                1500,
+                1619
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg032.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg032-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 111642,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg031.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg031-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 91409,
+            "dimensions": [
+                1700,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        },
+        {
+            "filename": "fundjpg033.jpg",
+            "thumbnail_url": "https:\/\/finance.1onestrong.com\/wp-content\/uploads\/2022\/09\/fundjpg033-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 105612,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/EB8M3TVKPX"
+        }
+    ]
+}
