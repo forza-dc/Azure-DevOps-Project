@@ -1,6 +1,12 @@
 # Investment Advisor Website on Kubernetes
 
-This project deploys an Investment Advisor Website using a Kubernetes cluster on the Azure cloud platform. The website is built based on a template obtained from Themeforest and is designed to provide financial advisory services. The deployment is orchestrated using Azure Kubernetes Service (AKS), ensuring high availability, scalability, and efficient management of containerized applications.
+This is an excellent project to practice deploying a high-quality Investment Advisor Website using a Kubernetes cluster on the Azure cloud platform. 
+
+![Financial Advisory Site](Financial-Advisory-Website.png)
+
+The website is built based on a template obtained from Themeforest and is designed to provide financial advisory services. The goal here is not on web design or web development, but to deploy an app or webpage from a development team, by provisioning infrastructure on Azure Cloud. 
+
+The deployment is orchestrated using Azure Kubernetes Service (AKS), ensuring high availability, scalability, and efficient management of containerized applications.
 
 ## Project Structure
 
